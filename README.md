@@ -12,7 +12,8 @@ Check your Critterz stats
 
 ## .ENV
 
-```BOT_TOKEN=
+```
+BOT_TOKEN=
 BOT_PREFIX=
 EMBED_COLOR=<HEX-COLOR-CODE>
 ```
