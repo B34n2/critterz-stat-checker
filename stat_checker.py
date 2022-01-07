@@ -9,7 +9,7 @@ class stats_checker(commands.Cog):
     @commands.command()
     async def stats(self, ctx, wallet):
 
-        embed = discord.Embed(title='<a:XVo6:929133882803122216>  **Fetching critterz...**', color = self.bot.color)
+        embed = discord.Embed(title='<a:XVo6:929133882803122216> **Fetching critterz...**', color = self.bot.color)
         load_message = await ctx.send(embed=embed)    
         try:
             endpoint='https://hasura-dxhfx4osrq-ue.a.run.app/v1/graphql'
