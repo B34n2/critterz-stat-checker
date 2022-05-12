@@ -1,5 +1,7 @@
 # critterz-stat-checker
-Check your Critterz stats
+**A discord bot which allows users to check their stats from NFT Collection Critterz**
+- Uses Critterz API to collect data
+- User provides a wallet address and bot will collection, sort, filter and send appropriate data
 
 ## Requirements
 - VC++ Build Tools
